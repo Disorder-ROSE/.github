@@ -1,7 +1,9 @@
 # 시각장애인을 위한 과자봉지 식별 프로젝트
-- 우연히 유튜브 쇼츠를 보다가 시각장애인 유튜버 ‘원샷한솔’님이 편의점에서 과자를 고르지 못하는 모습을 보고 아이디어를 구상해보았습니다.
 
 ![image](https://github.com/user-attachments/assets/1d5dd9b1-5e21-40f8-94a6-fbc66b46e3ca)
+- 우연히 유튜브 쇼츠를 보다가 시각장애인 유튜버 ‘원샷한솔’님이 편의점에서 과자를 고르지 못하는 모습을 보고 아이디어를 구상해보았습니다.
+- 유튜브 쇼츠 : https://youtube.com/shorts/Hcx6VTEUBsk?si=7GdP_sr5rGu0gHU5
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/b6496490-7d36-4cfd-b287-11041c287714">
 
 # 페이지 구성
 - 앱 온보딩뷰에 파란색 장미를 띄운 이유는 파란색 장미의 꽃말이 ‘불가능’, ’기적’ 이기 때문입니다.
