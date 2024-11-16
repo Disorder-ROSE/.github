@@ -17,6 +17,9 @@
 - 정확도를 올리기 위해 data argumentation을 이용하여 이미지 개수를 늘렸습니다.
 - jubyter notebook환경에서 이미지 데이터를 shift, rotate하는 코드를 직접 구현하였습니다.
 
-<img width="243" alt="image" src="https://github.com/user-attachments/assets/47dc0e55-3a0f-4ab9-85ba-29a749baf355">
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/eb5b33ec-eced-4600-abd1-1909c5d52726">
 
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/9dddce85-56f4-4c90-a240-997104fc2d15">
+<img width="529" alt="image" src="https://github.com/user-attachments/assets/c972846e-8e45-4049-ba32-9645284da346">
+
+# LLM 챗봇
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/67dc9b3d-ee1e-4332-b1a2-9ac8135826cd">
