@@ -21,7 +21,18 @@
 
 <img width="422" alt="image" src="https://github.com/user-attachments/assets/eb5b33ec-eced-4600-abd1-1909c5d52726">
 
-<img width="529" alt="image" src="https://github.com/user-attachments/assets/c972846e-8e45-4049-ba32-9645284da346">
+- data argumentation(shift, reverse) 후 mAP50
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/9fccc8a2-17a9-4591-af9f-8559271eac1c" />
+
+- 데이터 이미지셋 shuffle 후 mAP50
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/eb101bb8-c678-4c1e-8db4-d993faf21df9" />
+
+
+
+- shift, reverse, shuffle 적용에 따른 PR그래프 차이!
+
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/7db4eae4-dcdb-4e80-9144-66e9c71855d0" />
+
 
 # LLM 챗봇
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/67dc9b3d-ee1e-4332-b1a2-9ac8135826cd">
